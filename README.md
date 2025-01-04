@@ -26,3 +26,4 @@ Output: Receive professional documentation for actionable insights and informed 
  ![image](https://github.com/user-attachments/assets/295b3e8f-8d30-408f-b7d2-3ed858653500)
 
 
+![image](https://github.com/user-attachments/assets/47d4a18d-3a8d-49dc-8848-9b305959931c)
