@@ -2,7 +2,7 @@
 SafeChatbot
 SafeChatbot is a platform with cutting-edge AI technologies like hashtag#Gemini and hashtag#ChatGPT APIs, our platform simplifies and enhances safety methodologies such as STPA, FTA and FMEA
 
-🌟 SafeChatbot: Introducing the AI Generative Safety Analysis Platform 🌟
+🌟 SafeChatbot: Introducing the AI Generative Safety Analysis Platform 🌟  https://huggingface.co/spaces/AsimAbdulkhaleq/SafeChatBot
 
 Safety analysis with cutting-edge AI technologies like hashtag#Gemini and hashtag#ChatGPT APIs, our platform simplifies and enhances safety methodologies such as STPA and FTA.
 Key Features:
